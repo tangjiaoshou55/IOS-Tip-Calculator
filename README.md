@@ -42,7 +42,8 @@ Buckup uploads from [SM.MS](https://sm.ms)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I learned language C before, and it seems pretty close to the C. So, this work is not very hard for me. Also, I am very happy because this is my first ios applet.
+
 
 ## License
 
