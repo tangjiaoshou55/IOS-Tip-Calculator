@@ -30,6 +30,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/VRPgpxs3nr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Here is also a backup recording:
+<img src="https://s2.loli.net/2022/01/18/HK2UEus3Xlr4ZhM.gif" title='GIF backup'>
+
+If still can not access the Gif, please check the gif file at main branch.
+
 GIF created with [recordit](https://recordit.co/).
 
 ## Notes
