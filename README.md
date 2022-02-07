@@ -4,7 +4,7 @@
 
 Submitted by: **Johnathan Tang**
 
-Time spent: **2** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
@@ -28,17 +28,20 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://s2.loli.net/2022/01/18/HK2UEus3Xlr4ZhM.gif" title='GIF'>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+If still can not access the Gif, please check the gif file at main branch.
+
+GIF uploads from [SM.MS](https://sm.ms)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I learned language C before, and it seems pretty close to the C. So, this work is not very hard for me. Also, I am very happy because this is my first ios applet.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [Johnathan Tang] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
